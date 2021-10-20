@@ -27,3 +27,10 @@ body {
       inset -3px -3px 1px 1px rgb(0 0 0 / 15%);
   }
   
+  #box-container .box.clicked {
+    background-color: rgb(131, 175, 251);
+  }
+
+  #box-container .box.bomb {
+    background-color: red;
+  }
