@@ -56,7 +56,6 @@ function gridSystem (numberOfCells) {
         // creo la sezione html che inietterò tramite il metodo innerHTML
         boxContainer.append(cell)
         //boxContainer.innerHTML += cell;
-        return cell
     }
 }
 
